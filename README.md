@@ -1,3 +1,3 @@
-# Tomodachi
+# Pomodachi
 
 Your focus friend.

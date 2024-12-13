@@ -1,3 +1,3 @@
-Tomodachi - Your focus friend.
+# Tomodachi
 
-12/12/2024
+Your focus friend.
